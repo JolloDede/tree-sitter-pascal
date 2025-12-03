@@ -1,4 +1,4 @@
-module github.com/JolloDede/tree-sitter-pascal
+module github.com/jollodede/tree-sitter-pascal
 
 go 1.23
 
